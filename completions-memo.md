@@ -5,3 +5,4 @@ moon shell-completion --shell powershell
 taws completion powershell
 pgit completion powershell
 hyprmoncfg completion powershell
+purple --completions powershell
