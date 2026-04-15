@@ -6,3 +6,5 @@ taws completion powershell
 pgit completion powershell
 hyprmoncfg completion powershell
 purple --completions powershell
+sharedserver completion powershell
+unifly completions powershell
