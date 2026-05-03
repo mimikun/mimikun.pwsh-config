@@ -13,4 +13,5 @@ fnox activate pwsh
 fnox completion powershell
 hk completion powershell
 pitchfork completion powershell
+rvpm completion powershell
 
